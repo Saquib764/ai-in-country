@@ -1,4 +1,4 @@
-# Top AI Repositories in Every Country - Global AI Showcase
+# [WIP] Top AI Repositories in Every Country - Global AI Showcase
 
 This repository serves as a dynamic compilation, spotlighting innovative ventures from each country. By fostering collaboration and knowledge exchange, we aim to showcase the diverse solutions addressing unique challenges worldwide. Join us in celebrating the ingenuity propelling the AI industry forward, inspiring others to contribute and shape the future of artificial intelligence.
 
@@ -15,7 +15,7 @@ zust.ai: Create stunning studio-quality product images instantly. Unleash creati
 
 
 # Afghanistan
-N.A
+[CodeWeekend](https://codeweekend.net/)
 
 # Albania
 N.A
@@ -24,9 +24,18 @@ N.A
 N.A
 
 # Andorra
+N.A
+
 # Angola
+N.A
+
 # Antigua and Barbuda
+N.A
+
 # Argentina
+N.A
+
+
 # Armenia
 # Australia
 # Austria
