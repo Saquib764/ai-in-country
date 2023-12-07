@@ -8,7 +8,7 @@ This repository serves as a dynamic compilation, spotlighting innovative venture
 <img align="left" width="240" src="https://zust.ai/images/zust_logo_red.svg" alt="Orchard">
 
 #### Zust AI: The ultimate AI tool for Product Photoshoot.
-[Visit]([https://zust.ai](https://zust.ai/?linkId=lp_147627&sourceId=saquib-alam&tenantId=zust))
+[Visit](https://zust.ai/?linkId=lp_147627&sourceId=saquib-alam&tenantId=zust)
 
 zust.ai: Create stunning studio-quality product images instantly. Unleash creativity, save time, and captivate your audience effortlessly.
 
