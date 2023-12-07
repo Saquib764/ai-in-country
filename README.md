@@ -12,10 +12,16 @@ This repository serves as a dynamic compilation, spotlighting innovative venture
 
 zust.ai: Create stunning studio-quality product images instantly. Unleash creativity, save time, and captivate your audience effortlessly.
 
+
 # Afghanistan
+N.A
 
 # Albania
+N.A
+
 # Algeria
+N.A
+
 # Andorra
 # Angola
 # Antigua and Barbuda
