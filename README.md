@@ -16,7 +16,6 @@ zust.ai: Create stunning studio-quality product images instantly. Unleash creati
 
 # Afghanistan
 [CodeWeekend](https://codeweekend.net/)
-Certainly! Here's the updated list with a top AI startup mentioned for each country:
 
 # Albania
 N.A
