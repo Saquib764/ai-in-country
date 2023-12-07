@@ -16,6 +16,7 @@ zust.ai: Create stunning studio-quality product images instantly. Unleash creati
 
 # Afghanistan
 [CodeWeekend](https://codeweekend.net/)
+Certainly! Here's the updated list with a top AI startup mentioned for each country:
 
 # Albania
 N.A
@@ -33,263 +34,660 @@ N.A
 N.A
 
 # Argentina
-N.A
-
+Satellogic
 
 # Armenia
+PicsArt
+
 # Australia
+Canva
+
 # Austria
-# Austrian Empire*
+Anyline
+
 # Azerbaijan
+Bakcell
 
-Baden*
-Bahamas, The
-Bahrain
-Bangladesh
-Barbados
-Bavaria*
-Belarus
-Belgium
-Belize
-Benin (Dahomey)
-Bolivia
-Bosnia and Herzegovina
-Botswana
-Brazil
-Brunei
-Brunswick and Lüneburg*
-Bulgaria
-Burkina Faso (Upper Volta)
-Burma
-Burundi
+# Baden*
+N.A
 
-Cabo Verde
-Cambodia
-Cameroon
-Canada
-Cayman Islands, The
-Central African Republic
-Central American Federation*
-Chad
-Chile
-China
-Colombia
-Comoros
-Congo Free State, The*
-Costa Rica
-Cote d’Ivoire (Ivory Coast)
-Croatia
-Cuba
-Cyprus
-Czechia
-Czechoslovakia
+# Bahamas, The
+N.A
 
-Democratic Republic of the Congo
-Denmark
-Djibouti
-Dominica
-Dominican Republic
-Duchy of Parma, The*
+# Bahrain
+Inagrab
 
-East Germany (German Democratic Republic)*
-Ecuador
-Egypt
-El Salvador
-Equatorial Guinea
-Eritrea
-Estonia
-Eswatini
-Ethiopia
+# Bangladesh
+Gaze
 
-Federal Government of Germany (1848-49)*
-Fiji
-Finland
-France
+# Barbados
+Bitt
 
-Gabon
-Gambia, The
-Georgia
-Germany
-Ghana
-Grand Duchy of Tuscany, The*
-Greece
-Grenada
-Guatemala
-Guinea
-Guinea-Bissau
-Guyana
+# Bavaria*
+N.A
 
-Haiti
-Hanover*
-Hanseatic Republics*
-Hawaii*
-Hesse*
-Holy See
-Honduras
-Hungary
+# Belarus
+AIMATTER
 
-Iceland
-India
-Indonesia
-Iran
-Iraq
-Ireland
-Israel
-Italy
+# Belgium
+Sentiance
 
-Jamaica
-Japan
-Jordan
+# Belize
+N.A
+
+# Benin (Dahomey)
+N.A
+
+# Bolivia
+N.A
+
+# Bosnia and Herzegovina
+N.A
+
+# Botswana
+N.A
+
+# Brazil
+Nubank
+
+# Brunei
+BAG Networks
+
+# Brunswick and Lüneburg*
+N.A
+
+# Bulgaria
+Enhancv
+
+# Burkina Faso (Upper Volta)
+N.A
+
+# Burma
+N.A
+
+# Burundi
+N.A
+
+# Cabo Verde
+N.A
+
+# Cambodia
+Sabay Digital Corporation
+
+# Cameroon
+Will & Brothers
+
+# Canada
+Element AI
+
+# Cayman Islands, The
+N.A
+
+# Central African Republic
+N.A
+
+# Central American Federation*
+N.A
+
+# Chad
+N.A
+
+# Chile
+NotCo
+
+# China
+Baidu
+
+# Colombia
+Rappi
+
+# Comoros
+N.A
+
+# Congo Free State, The*
+N.A
+
+# Costa Rica
+Carao Ventures
+
+# Cote d’Ivoire (Ivory Coast)
+N.A
+
+# Croatia
+Rimac Automobili
+
+# Cuba
+N.A
+
+# Cyprus
+N.A
+
+# Czechia
+Rossum
+
+# Czechoslovakia
+N.A
+
+# Democratic Republic of the Congo
+N.A
+
+# Denmark
+Corti
+
+# Djibouti
+N.A
+
+# Dominica
+N.A
+
+# Dominican Republic
+N.A
+
+# Duchy of Parma, The*
+N.A
+
+# East Germany (German Democratic Republic)*
+N.A
+
+# Ecuador
+N.A
+
+# Egypt
+Instabug
+
+# El Salvador
+N.A
+
+# Equatorial Guinea
+N.A
+
+# Eritrea
+N.A
+
+# Estonia
+Starship Technologies
+
+# Eswatini
+N.A
+
+# Ethiopia
+N.A
+
+# Federal Government of Germany (1848-49)*
+N.A
+
+# Fiji
+N.A
+
+# Finland
+Silo.AI
+
+# France
+Snips
+
+# Gabon
+N.A
+
+# Gambia, The
+N.A
+
+# Georgia
+N.A
+
+# Germany
+Merantix
+
+# Ghana
+Farmerline
+
+# Grand Duchy of Tuscany, The*
+N.A
+
+# Greece
+Think Silicon
+
+# Grenada
+N.A
+
+# Guatemala
+N.A
+
+# Guinea
+N.A
+
+# Guinea-Bissau
+N.A
+
+# Guyana
+N.A
+
+# Haiti
+N.A
+
+# Hanover*
+N.A
+
+# Hanseatic Republics*
+N.A
+
+# Hawaii*
+N.A
+
+# Hesse*
+N.A
+
+# Holy See
+N.A
+
+# Honduras
+N.A
+
+# Hungary
+AImotive
+
+# Iceland
+Tempo
+
+# India
+zust.ai
+
+# Indonesia
+Kata.ai
+
+# Iran
+N.A
+
+# Iraq
+N.A
+
+# Ireland
+Nuritas
+
+# Israel
+Mobileye
+
+# Italy
+N.A
+
+# Jamaica
+N.A
+
+# Japan
+Preferred Networks
+
+# Jordan
+N.A
+
+# Kazakhstan
+N.A
+
+# Kenya
+Twiga Foods
+
+# Kingdom of Serbia/Yugoslavia*
+N.A
+
+# Kiribati
+N.A
+
+# Korea
+N.A
+
+# Kosovo
+N.A
+
+# Kuwait
+N.A
+
+# Kyrgyzstan
+N.A
+
+# Laos
+N.A
+
+# Latvia
+Giraffe360
+
+# Lebanon
+N.A
+
+# Lesotho
+N.A
+
+# Lew Chew (Loochoo)*
+N.A
+
+# Liberia
+N.A
+
+# Libya
+N.A
+
+# Liechtenstein
+N.A
+
+# Lithuania
+Oxipit
+
+# Luxembourg
+LuxAI
+
+# Madagascar
+N.A
+
+# Malawi
+DataProphet
+
+# Malaysia
+Vynn Capital
+
+# Maldives
+N.A
+
+# Mali
+N.A
+
+# Malta
+N.A
+
+# Marshall Islands
+N.A
+
+# Mauritania
+N.A
+
+# Mauritius
+Pepper
+
+# Mecklenburg-Schwerin*
+N.A
+
+# Mecklenburg-Strelitz*
+N.A
+
+# Mexico
+Kueski
+
+# Micronesia
+N.A
+
+# Moldova
+N.A
+
+# Monaco
+N.A
+
+# Mongolia
+N.A
+
+# Montenegro
+N.A
+
+# Morocco
+DataPro
+
+# Mozambique
+Kamaleon
+
+# Namibia
+N.A
+
+# Nassau*
+N.A
+
+# Nauru
+N.A
+
+# Nepal
+N.A
+
+# Netherlands, The
+Applied Drone Innovations
+
+# New Zealand
+Canva
+
+# Nicaragua
+N.A
+
+# Niger
+N.A
+
+# Nigeria
+Andela
+
+# North German Confederation*
+N.A
+
+# North German Union*
+N.A
+
+# North Macedonia
+N.A
+
+# Norway
+No Isolation
+
+# Oldenburg*
+N.A
+
+# Oman
+N.A
+
+# Orange Free State*
+N.A
+
+# Pakistan
+N.A
+
+# Palau
+N.A
+
+# Panama
+N.A
+
+# Papal States*
+N.A
+
+# Papua New Guinea
+N.A
+
+# Paraguay
+N.A
+
+# Peru
+Laboratoria
+
+# Philippines
+Acudeen Technologies
+
+# Piedmont-Sardinia*
+N.A
+
+# Poland
+Infermedica
+
+# Portugal
+DefinedCrowd
+
+# Qatar
+N.A
+
+# Republic of Genoa*
+N.A
+
+# Republic of Korea (South Korea)
+N.A
+
+# Republic of the Congo
+N.A
+
+# Romania
+UiPath
+
+# Russia
+Yandex
+
+# Rwanda
+N.A
+
+# Saint Kitts and Nevis
+N.A
+
+# Saint Lucia
+N.A
+
+# Saint Vincent and the Grenadines
+N.A
+
+# Samoa
+N.A
+
+# San Marino
+N.A
+
+# Sao Tome and Principe
+N.A
+
+# Saudi Arabia
+Sary
+
+# Schaumburg-Lippe*
+N.A
+
+# Senegal
+Sudpay
+
+# Serbia
+Nordeus
+
+# Seychelles
+N.A
+
+# Sierra Leone
+N.A
+
+# Singapore
+Taiger
+
+# Slovakia
+N.A
+
+# Slovenia
+N.A
+
+# Solomon Islands, The
+N.A
+
+# Somalia
+N.A
+
+# South Africa
+DataProphet
+
+# South Sudan
+N.A
+
+# Spain
+Sherpa.ai
+
+# Sri Lanka
+N.A
+
+# Sudan
+N.A
+
+# Suriname
+N.A
+
+# Sweden
+Peltarion
+
+# Switzerland
+Sophia Genetics
+
+# Syria
+N.A
+
+# Tajikistan
+N.A
+
+# Tanzania
+N.A
+
+# Texas*
+N.A
+
+# Thailand
+Builk One Group
+
+# Timor-Leste
+N.A
+
+# Togo
 
 
-Kazakhstan
-Kenya
-Kingdom of Serbia/Yugoslavia*
-Kiribati
-Korea
-Kosovo
-Kuwait
-Kyrgyzstan
+N.A
 
+# Tonga
+N.A
 
-Laos
-Latvia
-Lebanon
-Lesotho
-Lew Chew (Loochoo)*
-Liberia
-Libya
-Liechtenstein
-Lithuania
-Luxembourg
+# Trinidad and Tobago
+N.A
 
-Madagascar
-Malawi
-Malaysia
-Maldives
-Mali
-Malta
-Marshall Islands
-Mauritania
-Mauritius
-Mecklenburg-Schwerin*
-Mecklenburg-Strelitz*
-Mexico
-Micronesia
-Moldova
-Monaco
-Mongolia
-Montenegro
-Morocco
-Mozambique
+# Tunisia
+Vispera
 
+# Turkey
+Vispera
 
-Namibia
-Nassau*
-Nauru
-Nepal
-Netherlands, The
-New Zealand
-Nicaragua
-Niger
-Nigeria
-North German Confederation*
-North German Union*
-North Macedonia
-Norway
+# Turkmenistan
+N.A
 
+# Tuvalu
+N.A
 
-Oldenburg*
-Oman
-Orange Free State*
+# Two Sicilies*
+N.A
 
+# Uganda
+Akorion
 
-Pakistan
-Palau
-Panama
-Papal States*
-Papua New Guinea
-Paraguay
-Peru
-Philippines
-Piedmont-Sardinia*
-Poland
-Portugal
+# Ukraine
+Grammarly
 
+# Union of Soviet Socialist Republics*
+N.A
 
-Qatar
+# United Arab Emirates, The
+Wrappup
 
+# United Kingdom, The
+DeepMind
 
-Republic of Genoa*
-Republic of Korea (South Korea)
-Republic of the Congo
-Romania
-Russia
-Rwanda
+# Uruguay
+N.A
 
+# Uzbekistan
+N.A
 
-Saint Kitts and Nevis
-Saint Lucia
-Saint Vincent and the Grenadines
-Samoa
-San Marino
-Sao Tome and Principe
-Saudi Arabia
-Schaumburg-Lippe*
-Senegal
-Serbia
-Seychelles
-Sierra Leone
-Singapore
-Slovakia
-Slovenia
-Solomon Islands, The
-Somalia
-South Africa
-South Sudan
-Spain
-Sri Lanka
-Sudan
-Suriname
-Sweden
-Switzerland
-Syria
+# Vanuatu
+N.A
 
+# Venezuela
+N.A
 
-Tajikistan
-Tanzania
-Texas*
-Thailand
-Timor-Leste
-Togo
-Tonga
-Trinidad and Tobago
-Tunisia
-Turkey
-Turkmenistan
-Tuvalu
-Two Sicilies*
+# Vietnam
+FPT.AI
 
+# Württemberg*
+N.A
 
-Uganda
-Ukraine
-Union of Soviet Socialist Republics*
-United Arab Emirates, The
-United Kingdom, The
-Uruguay
-Uzbekistan
+# Yemen
+N.A
 
+# Zambia
+N.A
 
-Vanuatu
-Venezuela
-Vietnam
-
-
-Württemberg*
-
-
-Yemen
-
-
-Zambia
-Zimbabwe
+# Zimbabwe
+Dr CADx
